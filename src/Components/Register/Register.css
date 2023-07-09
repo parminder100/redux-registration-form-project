@@ -1,0 +1,38 @@
+.error{
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.error-text{
+    color: #ff0000
+}
+.user-data{
+    font-weight: 500;
+}
+.success-message{
+    font-weight: 500;
+    color:#008000;
+}
+.user-name{
+    margin-top: 30px;
+}
+.form-content{
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #e9e5f8;
+    border-radius: 8px;
+}
+.form-content .form-input{
+    border-radius: 5px;
+    padding-left: 10px;
+    border: 1px solid #000;
+}
+.form-content button{
+    background-color: #4B2FD2;
+    border-width: 0px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 8px;
+    color: #fff;
+    font-weight: 500;
+}
